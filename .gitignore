@@ -1,5 +1,17 @@
+# Sensitive configuration
 .env
-secrets.h
+**/secrets.h
+
+# Python
 __pycache__/
 .venv/
+
+# Visual Studio Code
 .vscode/
+
+# PlatformIO
+.pio/
+
+# Operating system files
+.DS_Store
+Thumbs.db
