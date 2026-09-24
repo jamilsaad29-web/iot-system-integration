@@ -1,4 +1,2 @@
-fastapi
-uvicorn
-paho-mqtt
-python-dotenv
+Flask==3.1.2
+paho-mqtt==2.1.0
